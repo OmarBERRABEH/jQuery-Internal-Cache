@@ -1,0 +1,25 @@
+{
+  "name": "jquery_internal_cache",
+  "version": "1.0.0",
+  "description": "small fonction to retriever the internaal cache of any DOM",
+  "main": "jquery.internalcache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarBERRABEH/jQuery-Internal-Cache.git"
+  },
+  "keywords": [
+    "jquery",
+    "cache",
+    "debug",
+    "easy"
+  ],
+  "author": "omar BERRABEH (omar.berrabeh@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmarBERRABEH/jQuery-Internal-Cache/issues"
+  },
+  "homepage": "https://github.com/OmarBERRABEH/jQuery-Internal-Cache#readme"
+}
